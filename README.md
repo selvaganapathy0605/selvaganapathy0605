@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @selvaganapathy0605
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning java script.
-- 💞️ I’m looking to collaborate on both Frontend Project and Backend Project
-- 📫 How to reach me Gmail :- selvaganapathy0605@gmail.com.
+- 👋 Hi, This is  Selvaganapathy
+- 👀 Interested in Web development.
+- 🌱 Currently learning DSA in Python
+- 💞️ Looking to collaborate on both Frontend Project and Backend Project
+- 📫 How to reach me Gmail :- selvaganapathy2806@gmail.com.
 - 😄 Pronouns: Work hard,live mergly.
 - ⚡ Fun fact: :(
