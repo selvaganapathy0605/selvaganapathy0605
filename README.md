@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, This is Selvaganapathy<br>👀 Interested in Full Stack development.<br>🌱 Currently learning DSA in Python<br>💞️ Looking to collaborate on both Frontend Project and Backend Project<br>📫 How to reach me Gmail :- selvaganapathy2806@gmail.com.<br>😄 Pronouns: Work hard,live mergly.<br>⚡ Fun fact: :(
+👋 Hi, I’m **Selvaganapathy**  
+👀 I’m passionate about **Full Stack Development**  
+🌱 Currently sharpening my skills in **Data Structures & Algorithms using Python**  
+💞️ I’m open to collaborating on **Frontend** and **Backend** projects  
+📫 Reach me at: **selvaganapathy2806@gmail.com**  
+😄 Motto / Pronouns: *Work hard, live merrily*  
+⚡ Fun Fact: I solve bugs faster when listening to lo-fi beats 🎧
+
 
 
 ## 🌐 Socials:
